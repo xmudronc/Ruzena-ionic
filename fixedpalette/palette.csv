@@ -1,0 +1,604 @@
+anchor,dmc,hex,name
+1,5200,#FAFAFA,white
+2,3865,#F9F7F1,winter white
+6,353,#F2A898,peach
+8,3824,#FFB496,lt apricot
+9,352,#EA8079,lt coral
+10,351,#de605e,coral
+11,350,#D64542,md coral
+13,349,#C72E33,dk coral
+13,817,#BF1A23,vy dk coral red
+19,321,#c32a3c,red
+20,816,#940b24,garnet
+22,815,#840720,md garnet
+22,902,#6d1a2b,vy dk garnet
+23,151,#F3C1CD,vy lt dustry rose
+23,963,#ffced7,ul vy lt dusty rose
+24,776,#f3949f,md pink
+25,3716,#f6a7b4,vy lt dusty rose
+26,894,#FF9BB2,vy lt carnation
+27,893,#fb7493,lt carnation
+28,956,#fb5c84,geranium
+29,891,#f32d3e,dk carnation
+31,3708,#FFA2B0,lt melon
+33,3706,#FF7F8C,md melon
+33,892,#F75172,md carnation
+35,3705,#F75156,dk melon
+35,891,#F32D3E,dk carnation
+36,3326,#F3949F,lt rose
+38,956,#fb5c84,geranium
+39,3832,#E0577E,md raspberry
+40,956,#FB5C84,geranium
+41,893,#fb7493,lt carnation
+42,309,#c9344d,dk rose
+42,3831,#B22B54,dk raspberry
+43,815,#840720,md garnet
+44,815,#840720,md garnet
+45,814,#79001c,dk garnet
+46,666,#D90028,bright red
+47,321,#c32a3c,red
+48,963,#ffced7,ul vy lt dusty rose
+49,3689,#FDBACE,lt mauve
+50,957,#FF9BBA,pale geranium
+52,899,#e2697b,md rose
+54,956,#fb5c84,geranium
+55,603,#ee6195,cranberry
+55,604,#F784AA,lt cranberry
+57,601,#DE2271,dk cranberry
+57,602,#e64281,md cranberry
+59,150,#A8024A,ul vy dk dustry rose
+59,326,#AF3A4A,vy dk rose
+59,3350,#B84263,ul dk dusty rose
+59,3831,#B22B54,dk raspberry
+59,600,#D30B61,vy dk cranberry
+60,3688,#e890ac,md mauve
+62,3805,#F34188,cyclamen pink
+62,3806,#FD75A9,lt cyclamen pink
+62,603,#EE6195,cranberry
+63,3804,#E6367C,dk cyclamen pink
+63,602,#E64281,md cranberry
+65,3350,#b84263,ul dk dusty rose
+65,777,#810B28,vy dk Raspberry
+66,3688,#E890AC,md mauve
+68,3687,#C65375,mauve
+69,3803,#a83255,dk mauve
+70,3685,#851531,vy dk mauve
+72,902,#6d1a2b,vy dk garnet
+73,818,#FFCECE,baby pink
+73,963,#ffced7,ul vy lt dusty rose
+74,3354,#eea1b2,lt dusty rose
+74,605,#ffaac5,vy lt cranberry
+75,3733,#E78197,dusty rose
+75,962,#DD818F,md dusty rose
+76,3731,#D96280,vy dk dusty rose
+76,3833,#EB6D84,lt raspberry
+76,961,#DA627C,dk dusty rose
+77,3687,#c65375,mauve
+78,917,#a4175d,md plum
+79,3687,#c65375,mauve
+85,3609,#FFAACF,ul lt plum
+86,3608,#E67DAC,vy lt plum
+87,3607,#D25292,lt plum
+88,718,#B73275,plum
+89,917,#A4175D,md plum
+90,3836,#B78DA7,lt grape
+92,553,#a16089,violet
+94,917,#a4175d,md plum
+95,153,#E3C6D5,vy lt violet
+96,554,#d8aec7,lt violet
+97,554,#d8aec7,lt violet
+98,3835,#915E81,md grape
+98,553,#A16089,violet
+99,552,#793666,md violet
+100,327,#551346,dk violet
+100,3834,#70365B,dk grape
+100,3837,#69396C,ul dk lavender
+101,550,#4a133f,vy dk violet
+102,550,#4A133F,vy dk violet
+103,153,#e3c6d5,vy lt violet
+108,210,#C09BC0,md lavender
+109,209,#A078A5,dk lavender
+110,333,#604e87,vy dk blue violet
+111,208,#805988,vy dk lavender
+112,3837,#69396C,ul dk lavender
+117,341,#B8BFDC,lt blue violet
+117,3840,#A7B2C5,lt lavender blue
+118,156,#A5B0D1,md lt blue violet
+118,340,#a4a4c4,md blue violet
+119,333,#604E87,vy dk blue violet
+120,157,#B7C4E4,vy lt cornflower blue
+120,159,#C1C9D9,lt gray blue
+120,3747,#CDD2EA,vy lt blue violet
+121,794,#8e9dc6,lt cornflower blue
+121,809,#82a8c9,delft blue
+122,3807,#5B648F,cornflower blue
+123,158,#403D6D,md vy dk cornflower blue
+123,791,#363562,vy dk cornflower blue
+127,823,#071F3A,dk navy blue
+128,775,#D7EBF2,vy lt baby blue
+129,3325,#A6C3D9,lt baby blue
+130,809,#82a8c9,delft blue
+131,798,#3E5EA0,dk delft blue
+132,797,#223F88,royal blue
+133,796,#0F2075,dk royal blue
+134,820,#000861,vy dk royal blue
+136,799,#5b81b5,md delft blue
+137,3838,#5D6F9D,dk lavender blue
+137,798,#3e5ea0,dk delft blue
+139,797,#223f88,royal blue
+140,3755,#83A4C1,baby blue
+142,798,#3e5ea0,dk delft blue
+143,797,#223f88,royal blue
+144,800,#adcbe1,pale delft blue
+145,799,#5b81b5,md delft blue
+146,798,#3e5ea0,dk delft blue
+147,797,#223f88,royal blue
+148,311,#064055,md navy blue
+149,803,#1E4669,ul vy dk baby blue
+150,336,#0F3251,navy blue
+152,823,#071F3A,dk navy blue
+152,939,#001326,vy dk navy blue
+158,747,#d3fff9,vy lt sky blue
+159,162,#C7E2EF,ul vy lt blue
+160,827,#ACD4E9,vy lt blue
+161,813,#7EACC9,lt blue
+161,826,#5785AD,md blue
+162,517,#2E7288,dk wedgewood
+162,825,#3A628C,dk blue
+164,3842,#17566D,dk wedgwood
+164,824,#224271,vy dk blue
+167,3766,#9ACDCD,lt peacock blue
+168,807,#5F9EA5,peacock blue
+169,3760,#3D839F,md wedgewood
+169,806,#3D839F,dk peacock blue
+170,3765,#17616D,vy dk peacock blue
+175,160,#8293B3,md gray blue
+175,794,#8E9DC6,lt cornflower blue
+176,161,#5C6694,gray blue
+176,3839,#798FB3,md lavender blue
+176,793,#7784AF,md cornflower blue
+177,792,#4b497d,dk cornflower blue
+178,158,#403D6D,md vy dk cornflower blue
+178,791,#363562,vy dk cornflower blue
+185,959,#85d5b6,md seagreen
+185,993,#7ecdaf,vy lt aquamarine
+186,959,#85D5B6,md seagreen
+187,3851,#66BF9D,lt bright green
+187,958,#5BC39D,dk seagreen
+188,3812,#1C925F,vy dk seagreen
+188,943,#39AC78,md aquamarine
+189,3850,#0F9161,dk bright green
+203,954,#99E5A6,nile green
+204,913,#76D185,md nile green
+205,911,#36A459,md emerald green
+206,564,#B5E1BE,vy lt jade
+206,955,#C6FFCA,lt nile green
+206,966,#A2D5AE,md baby green
+208,563,#8cd2a8,lt jade
+209,912,#53BD6A,lt emerald green
+210,505,#328060,jade green
+210,562,#519468,md jade
+211,700,#07711a,bright green
+212,561,#2B6843,vy dk jade
+213,504,#b2d4bd,vy lt blue green
+214,368,#aad99f,lt pistachio green
+215,320,#75BB71,md pistachio green
+216,562,#519468,md jade
+217,367,#4b924b,dk pistachio green
+218,319,#236831,vy dkpistachio green
+218,890,#144B26,ul dk pistachio green
+219,3813,#b2d4bd,lt blue green
+221,502,#598d6e,blue green
+224,3818,#00692d,ul vy dk emerald greene
+225,702,#46a42e,kelly green
+226,702,#46A42E,kelly green
+227,701,#1C8817,lt green
+228,700,#07711a,bright green
+229,910,#1E9044,dk emerald green
+230,909,#0B7C38,vy dk emerald green
+231,453,#D1C3CF,lt shell gray
+232,452,#AE9AA4,md shell gray
+233,451,#7C696D,dk shell gray
+234,762,#E2E2E7,vy lt pearl gray
+235,414,#7C7C84,dk steel gray
+236,3799,#2B2C2F,vy dk pewter gray
+236,413,#3E4144,dk pewter gray
+237,704,#aeda62,bright chartreuse
+238,703,#7ab146,chartreuse
+239,702,#46a42e,kelly green
+240,164,#B6D4A3,lt forest green
+241,989,#92bf68,forest green
+242,989,#92BF68,forest green
+243,988,#68A046,md forest green
+244,987,#408128,dk forest green
+245,987,#408128,dk forest green
+246,986,#2B671F,vy dk forest green
+253,472,#D5E191,ul lt avocado green
+254,472,#d5e191,ul lt avocado green
+255,907,#C6E560,lt parrot green
+256,704,#AEDA62,bright chartreuse
+256,906,#89C53A,md parrot green
+257,905,#568f2e,dk parrot green
+258,904,#2F6800,vy dk parrot green
+259,772,#E4FEB0,vy lt yellow green
+260,3364,#9DB275,pine green
+261,3053,#A4B583,green gray
+262,3052,#798855,md green gray
+262,3363,#6E8D58,md pine green
+263,3362,#4A6332,dk pine green
+264,3348,#ceeb90,lt yellow green
+264,772,#e4feb0,vy lt yellow green
+265,471,#b9c572,vy lt avocado green
+266,3347,#76A451,md yellow green
+266,471,#B9C572,vy lt avocado green
+267,3346,#4B8835,hunter green
+267,469,#819442,avocado green
+267,470,#9EAD57,lt avocado green
+268,3345,#2F6913,dk hunter green
+268,3346,#4b8835,hunter green
+268,937,#697C2E,md avocado green
+269,936,#52651A,vy dk avocado green
+271,819,#FFE1E1,lt baby pink
+273,3787,#656040,dk brown gray
+273,645,#515542,vy dk beaver gray
+274,3752,#9ab3cd,vy lt antique blue
+274,928,#C2D4D4,vy lt gray green
+275,746,#FFFFE1,off white
+276,543,#eaded3,ul vy lt beige brown
+276,739,#f2d3a8,ul vy lt tan
+277,830,#766400,dk golden olive
+277,831,#928030,md golden olive
+278,165,#EFF39D,vy lt moss green
+278,3819,#E0E762,lt moss green
+279,734,#D4CE75,lt olive green
+280,166,#CED129,md lt moss green
+280,581,#8BA136,moss green
+280,733,#C0BA61,md olive green
+281,580,#667913,dk moss green
+281,732,#989239,olive green
+288,445,#FFF983,lt lemon
+289,307,#fee73d,lemon
+290,444,#FAC800,dk lemon
+291,444,#fac800,dk lemon
+292,3078,#faf6b7,vy lt golden yellow
+293,727,#F6E990,vy lt topaz
+295,3822,#f2df70,lt straw
+295,726,#F7DD68,lt topaz
+297,973,#FADD00,bright canary
+298,972,#F7BE12,deep canary
+300,745,#fff1b2,lt pale yellow
+301,743,#FFE48B,pale yellow
+301,744,#FFE48B,pale yellow
+302,743,#FFDD64,md yellow
+303,742,#FFBC50,lt tangerine
+304,741,#FF9D25,md tangerine
+305,3821,#F2CD49,straw
+305,725,#f7cc41,md lt topaz
+305,728,#EFC11A,topaz
+306,3820,#E2B735,dk straw
+306,3852,#D2A021,vy dk straw
+306,783,#DA9605,md topaz
+307,782,#C77E00,dk topaz
+308,781,#C77E00,vy dk topaz
+309,780,#AF5E00,ul vy dk topaz
+310,434,#8C602A,lt brown
+311,3827,#F7B670,pale golden brown
+311,3855,#F9DA8C,lt autumn gold
+313,3854,#F9B460,md autumn gold
+314,741,#ff9d25,md tangerine
+316,740,#FA8500,tangerine
+316,970,#F7860E,lt pumpkin
+316,971,#FA8500,pumpkin
+323,3825,#FDB78E,pale pumpkin
+323,722,#F79168,lt orange spice
+324,721,#f37c51,md orange spice
+326,720,#EF6A41,dk orange spice
+328,3341,#FF9774,apricot
+329,3340,#FA8155,md apricot
+330,947,#E66007,burnt orange
+332,608,#FD552F,bright orange
+332,946,#DE4600,md burnt orange
+333,900,#db3700,dk burnt orange
+334,606,#FD340C,bright orange-red
+335,606,#fd340c,bright orange-red
+336,3771,#F3B5A2,ul vy lt terra cotta
+337,3778,#da8e7f,lt terra cotta
+338,3778,#da8e7f,lt terra cotta
+339,920,#cf501e,md copper
+340,919,#BB3A0F,red copper
+341,918,#A02500,dk red copper
+342,211,#e0c5e0,lt lavender
+343,3752,#9ab3cd,vy lt antique blue
+347,3064,#ca9073,desert sand
+349,3826,#b66e2a,golden brown
+351,400,#8c410f,dk mahogany
+352,300,#6D2D00,vy dk mahogany
+354,611,#847a57,drab brown
+355,975,#8e4c12,Dk Golden Brown
+357,433,#79511a,Md Brown
+358,3862,#8C6F4E,dk mocha beige
+358,433,#79511A,md brown
+359,801,#653D0F,dk coffee brown
+360,898,#512D07,vy dk coffee brown
+361,738,#DDB689,vy lt tan
+362,437,#C99F6A,lt tan
+363,977,#db9851,lt golden brown
+365,435,#a0743e,vy lt brown
+366,738,#ddb689,vy lt tan
+366,945,#ffc9ae,tawny
+367,738,#ddb689,vy lt tan
+369,435,#a0743e,vy lt brown
+370,780,#af5e00,ul vy dk topaz
+372,422,#d5b067,lt hazelnut brown
+373,3828,#B2913C,hazelnut brown
+374,420,#9A7B33,dk hazelnut brown
+375,869,#745e27,vy dk hazelnut brown
+376,3864,#CBB69C,lt mocha beige
+376,842,#d9c2a8,vy lt beige brown
+378,3861,#A4857E,lt cocoa
+379,3860,#8F6D65,cocoa
+379,3863,#A88764,md mocha beige
+380,779,#604944,dk cocoa
+381,838,#523516,vy dk beige brown
+381,938,#3E2200,ul dk coffee brown
+382,3371,#3A2723,black brown
+386,3823,#FEFBCE,ul pale yellow
+387,739,#F5F0EC,ecru
+387,739,#f2d3a8,ul vy lt tan
+388,842,#d9c2a8,vy lt beige brown
+390,822,#F3ECDC,lt beige gray
+391,3033,#E0D4C3,vy lt mocha brown
+392,642,#B8AD92,dk beige gray
+393,3790,#776847,ul dk beige gray
+397,3024,#D7D7C3,vy lt brown gray
+398,168,#C7CDCE,vy lt pewter
+398,415,#BFBFC3,pearl gray
+399,318,#9c9ca4,lt steel gray
+400,317,#575D61,pewter gray
+401,535,#555545,vy lt ash gray
+403,310,#000000,black
+410,3844,#099D89,dk bright turquoise
+410,995,#016EA5,dk electric blue
+433,996,#13bcde,md electric blue
+675,3808,#0b525d,ul vy dk turquoise
+676,452,#ae9aa4,md shell gray
+677,3863,#a88764,md mocha beige
+678,611,#847a57,drab brown
+679,3772,#aa7959,vy dk desert sand
+681,3051,#516132,dk green gray
+683,500,#055538,vy dk blue green
+772,3772,#aa7959,vy dk desert sand
+778,3774,#F1DBD0,vy lt desert sand
+779,3768,#528779,dk gray green
+781,931,#46728c,md antique blue
+799,498,#a4132b,dk red
+802,445,#fff983,lt lemon
+803,976,#cb8234,md golden brown
+806,931,#46728c,md antique blue
+815,414,#7c7c84,dk steel gray
+816,924,#166059,vy dk gray green
+817,580,#667913,dk moss green
+820,729,#e3b344,md old gold
+830,644,#DDD3BC,md beige gray
+831,613,#D4C7A8,vy lt drab brown
+832,612,#A29670,lt drab brown
+837,927,#a0bebe,lt gray green
+840,930,#316274,dk antique blue
+842,3013,#B7B77E,lt khaki green
+842,3348,#ceeb90,lt yellow green
+843,3012,#939857,md khaki green
+844,3012,#939857,md khaki green
+845,730,#706C21,vy dk olive green
+846,3011,#6E783B,dk khaki green
+847,3072,#E3E7D9,vy lt beaver gray
+848,927,#A0BEBE,lt gray green
+849,169,#7F8887,lt pewter
+850,926,#79A296,md gray green
+851,924,#166059,vy dk gray green
+852,3047,#E7E1B8,lt yellow beige
+853,372,#C1BA7E,lt mustard
+854,371,#B7A765,mustard
+855,370,#AE9B54,md mustard
+858,524,#C1CAA7,vy lt fern green
+859,523,#b3be95,lt fern green
+860,522,#819569,fern green
+861,935,#3B4D0F,dk avocado green
+862,520,#42612B,dk fern green
+862,934,#314615,black avocado green
+868,758,#eda394,vy lt terra cotta
+869,3743,#D3C6CF,vy lt antique violet
+870,3042,#B499A4,lt antique violet
+871,3041,#937580,md antique violet
+872,3740,#765561,dk antique violet
+873,154,#552332,vy dk grape
+873,3740,#765561,dk antique violet
+874,834,#D5C77F,vy lt golden olive
+875,3813,#B2D4BD,lt blue green
+875,3817,#AAD9BA,lt celadon green
+876,3816,#78B48A,celadon green
+876,503,#8AB5A0,md blue green
+877,163,#559A6E,md celadon green
+877,3815,#397A59,dk celadon green
+877,502,#598D6E,blue green
+878,501,#3D7654,dk blue green
+879,500,#055538,vy dk blue green
+880,951,#ffddc6,lt tawny
+881,945,#FFC9AE,tawny
+882,758,#eda394,vy lt terra cotta
+883,3064,#CA9073,desert sand
+884,355,#a5463c,dk terra cotta
+884,920,#cf501e,md copper
+885,739,#f2d3a8,ul vy lt tan
+886,677,#F4E7B4,vy lt old gold
+887,3046,#D9CDA3,md yellow beige
+888,3045,#C5AD66,dk yellow beige
+889,610,#6F6641,dk drab brown
+890,729,#E3B344,md old gold
+891,3825,#FDB78E,pale pumpkin
+891,676,#EECA70,lt old gold
+892,225,#ffd7ce,ul vy lt shell pink
+893,224,#E9B1A8,vy lt shell pink
+895,223,#D58582,lt shell pink
+896,3721,#AC4A52,dk shell pink
+897,221,#9A3D43,vy dk shell pink
+897,902,#6d1a2b,vy dk garnet
+898,167,#AC8D3E,vy dk yellow beige
+898,611,#847A57,drab brown
+899,3782,#CABCA3,lt mocha brown
+900,648,#bcc0a8,lt beaver gray
+901,3829,#A67D04,vy dk old gold
+901,680,#C8A027,dk old gold
+903,3032,#AE9D78,md mocha brown
+903,640,#918463,vy dk beige gray
+904,3781,#574D2A,dk mocha brown
+905,3021,#44452A,vy dk brown gray
+905,3031,#473727,vy dk mocha brown
+906,829,#694F00,vy dk golden olive
+907,832,#A89234,golden olive
+907,833,#CCBA60,lt golden olive
+914,3859,#B88778,lt rosewood
+914,407,#BB8871,dk desert sand
+920,932,#80a3ba,lt antique blue
+921,931,#46728c,md antique blue
+922,930,#316274,dk antique blue
+923,3818,#00692D,ul vy dk emerald greene
+923,699,#005922,green
+923,909,#0B7C38,vy dk emerald green
+924,731,#989239,dk olive green
+925,721,#f37c51,md orange spice
+926,3866,#F8F2E9,ul vy lt mocha brown
+926,712,#fff8e5,cream
+928,3761,#9DD5DD,lt sky blue
+933,543,#EADED3,ul vy lt beige brown
+936,632,#936148,ul vy dk desert sand
+939,3755,#83a4c1,baby blue
+940,824,#224271,vy dk blue
+941,792,#4B497D,dk cornflower blue
+942,738,#ddb689,vy lt tan
+943,422,#D5B067,lt hazelnut brown
+944,869,#745E27,vy dk hazelnut brown
+945,834,#d5c77f,vy lt golden olive
+956,613,#d4c7a8,vy lt drab brown
+968,778,#DDADB6,vy lt antique mauve
+969,152,#E09A93,md lt shell pink
+970,3687,#c65375,mauve
+972,3803,#A83255,dk mauve
+975,828,#B9E1E9,ul vy very lt blue
+976,3752,#9ab3cd,vy lt antique blue
+977,334,#5F8DA9,md baby blue
+978,322,#467194,dk dark baby blue
+979,312,#2E597C,vy dk baby blue
+1001,976,#CB8234,md golden brown
+1002,977,#DB9851,lt golden brown
+1003,3853,#E58632,dk autumn gold
+1003,921,#E26132,copper
+1003,922,#EC9163,lt copper
+1004,920,#CF501E,md copper
+1005,498,#A4132B,dk red
+1005,816,#940B24,garnet
+1006,304,#b31e32,md red
+1007,3772,#AA7959,vy dk desert sand
+1007,3858,#93483E,md rosewood
+1008,3773,#BB8871,md desert sand
+1009,3770,#FFF3E1,vy lt tawny
+1009,3773,#BB8871,md desert sand
+1010,3856,#F5C3A9,ul vy lt mahogany
+1010,951,#FFDDC6,lt tawny
+1011,948,#FDDCC5,vy lt peach
+1012,3779,#EFBDBA,ul vy lt terra cotta
+1012,754,#f6c4b7,lt peach
+1012,967,#FFC9B4,vy lt apricot
+1013,3778,#DA8E7F,lt terra cotta
+1014,335,#D64A5F,rose
+1014,355,#A5463C,dk terra cotta
+1015,3777,#8E3230,vy dk terra cotta
+1016,3727,#C98C97,lt antique mauve
+1017,316,#B56F7C,md antique mauve
+1018,3726,#A45561,dk antique mauve
+1019,315,#903E4E,md dk antique mauve
+1019,3802,#7C2A40,vy dk antique mauve
+1020,3713,#FFD5D5,vy lt salmon
+1021,761,#F2ACAC,lt salmon
+1022,760,#E6858F,salmon
+1023,3712,#DA6270,md salmon
+1024,3328,#CE3F54,dk salmon
+1025,347,#BF2642,vy dk salmon
+1026,225,#ffd5d5,ul vy lt shell pink
+1027,3722,#C16363,md shell pink
+1028,3685,#851531,vy dk mauve
+1029,915,#90004F,dk plum
+1030,155,#948DB3,md dk blue violet
+1030,3746,#746896,dk blue violet
+1031,3753,#CDDBE8,ul vy lt antique blue
+1032,3752,#9AB3CD,vy lt antique blue
+1033,932,#80A3BA,lt antique blue
+1034,931,#46728C,md antique blue
+1035,930,#316274,dk antique blue
+1036,3750,#1B3E49,vy dk antique blue
+1037,3756,#E7F9F9,ul vy lt baby blue
+1038,519,#6FB1C1,sky blue
+1039,518,#4d91a4,lt wedgewood
+1040,3023,#aeab8a,lt brown gray
+1040,647,#959884,md beaver gray
+1041,844,#31372d,ul dk beaver gray
+1042,504,#B2D4BD,vy lt blue green
+1043,369,#D2EBC5,vy lt pistachio green
+1044,895,#1B5100,vy dk hunter green
+1045,436,#b58c53,tan
+1046,435,#A0743E,vy lt brown
+1047,402,#F7A170,vy lt mahogany
+1048,3776,#CE7535,lt mahogany
+1049,301,#af5b2a,md mahogany
+1049,3826,#B66E2A,golden brown
+1050,3781,#574d2a,dk mocha brown
+1060,3811,#B4E0E9,vy lt turquoise
+1062,598,#82C1CD,lt turquoise
+1064,597,#57a2b1,turquoise
+1066,3809,#1E6A79,vy dk turquoise
+1066,3810,#3A8594,dk turquoise
+1068,3808,#0B525D,ul vy dk turquoise
+1070,992,#7ecdaf,vy lt aquamarine
+1072,992,#4AAC88,lt aquamarine
+1072,992,#4aac88,vy lt aquamarine
+1074,3814,#228C69,aquamarine
+1074,3848,#3C8B6E,md teal green
+1076,3847,#2B6F51,dk teal green
+1076,991,#0b6d4c,dk aquamarine
+1080,842,#D9C2A8,vy lt beige brown
+1082,841,#B39A7D,lt beige brown
+1084,840,#967954,md beige brown
+1086,839,#6A4726,dk beige brown
+1088,938,#3e2200,ul dk coffee brown
+1089,3843,#0493BE,electric blue
+1089,3845,#04BAAE,md bright turquoise
+1090,3846,#44DEC7,lt bright turquoise
+1092,964,#b4f2df,lt seagreen
+1094,605,#FFAAC5,vy lt cranberry
+1096,3753,#cddbe8,ul vy lt antique blue
+1098,3801,#F03646,vy dk melon
+1203,105,#A5765A,variegated tan/brown
+1203,107,#D6527A,variegated carnation
+1203,57,#E54A5A,variegated red
+1204,107,#D6527A,variegated carnation
+1206,115,#82192A,variegated garnet
+1209,52,#8C7AB6,variegated violet
+1209,94,#B5C385,variegated khaki green
+1210,121,#7BB4D6,variegated delft blue
+1213,125,#63B47C,variegated seafoam green
+1213,99,#BD6C7B,variegated mauve
+1215,92,#C5CE95,variegated avocado
+1217,103,#426DA2,variegated royal blue
+1217,90,#E6BF4A,variegated yellow
+1218,106,#F65B3C,variegated coral
+1218,111,#BD8E22,variegated mustard
+1218,69,#C48C73,variegated terra cotta
+1220,51,#CF5232,variegated burnt orange
+4146,950,#EBC8B3,lt desert sand
+5975,356,#D37863,md terra cotta
+5975,3830,#C35A4C,terra cotta
+8581,3022,#84835C,md brown gray
+8581,646,#707864,dk beaver gray
+9046,321,#C32A3C,red
+9159,3841,#BFDBE7,pale baby blue
+9159,828,#B9E1E9,ul vy very lt blue
+9575,758,#eda394,vy lt terra cotta

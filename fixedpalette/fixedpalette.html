@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>RgbQuant.js fixed palette example</title>
+
+	<script src="js/jquery-2.0.3.min.js"></script>
+	<script src="../src/rgbquant.js"></script>
+	<script src="js/fixedpalette.js"></script>
+
+	<link rel="stylesheet" href="css/fixedpalette.css">
+</head>
+<body>
+	<!--<img id="moo" src="kitteh1.jpg" alt="">-->
+	<form action='#' onsubmit="return false;">
+		<input type='file' id='imgfile' />
+		<input type='button' id='btnLoad' value='Load' onclick='loadImage();' />
+	</form>
+	<canvas id="canvas"></canvas>
+</body>
+</html>

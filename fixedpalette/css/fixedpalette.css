@@ -1,0 +1,7 @@
+#pal_orig,
+#pal_final {
+	width: 200px;
+	image-rendering: pixelated;
+	image-rendering: -moz-crisp-edges;
+	margin-right: 50px;
+}
